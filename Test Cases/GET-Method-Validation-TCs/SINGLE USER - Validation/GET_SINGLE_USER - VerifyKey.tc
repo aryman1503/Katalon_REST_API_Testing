@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_SINGLE_USER - VerifyKey</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bf1c5c9-6992-44b0-af68-197c2af16882</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>9f969986-9ec4-431b-8634-3a33bb932ce6</id>
+      <masked>false</masked>
+      <name>singleUserID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Janet'</defaultValue>
+      <description></description>
+      <id>c16fa30d-c33c-4a4c-8e54-de4c53ed97d6</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Weaver'</defaultValue>
+      <description></description>
+      <id>8532cac6-8bb9-4e13-a5fc-03ea3c08fcfa</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+</TestCaseEntity>

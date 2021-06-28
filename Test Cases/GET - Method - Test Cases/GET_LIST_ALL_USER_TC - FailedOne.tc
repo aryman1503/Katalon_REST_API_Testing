@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_LIST_ALL_USER_TC - FailedOne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78390667-e070-4161-ab8c-9909b002bc99</testCaseGuid>
+</TestCaseEntity>

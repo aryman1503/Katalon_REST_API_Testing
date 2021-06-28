@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_LIST_USER - ResponseCode_VerifyFirstAndLastName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbdf394a-f9a0-457b-a30b-a69b5d5f9ad1</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>e3caf2ea-61ab-408f-9348-62eefad3bf6f</id>
+      <masked>false</masked>
+      <name>listUserPageNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tobias1'</defaultValue>
+      <description></description>
+      <id>049e5bd2-934e-48c5-b830-d40c1159e759</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Funke'</defaultValue>
+      <description></description>
+      <id>5c2465ac-91a6-4d8c-9a93-0aa18290536f</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+</TestCaseEntity>

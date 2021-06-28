@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_SINGLE_USER - VerifyResponseCode_AND_ResponseBody</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d53811d-0331-4f33-9144-6042830d2cd1</testCaseGuid>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>0eec79f3-3061-4778-ac30-2dcf8eaa1727</id>
+      <masked>false</masked>
+      <name>singleUserID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Janet'</defaultValue>
+      <description></description>
+      <id>c5d83604-1099-46d9-8edc-3a5b297feaf3</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Weaver'</defaultValue>
+      <description></description>
+      <id>cb03c3e8-0268-404d-b32f-a29fc95a3ec1</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'janet.weaver@reqres.in'</defaultValue>
+      <description></description>
+      <id>072c7ee8-a1a4-48fd-aabd-2a9bb3cd8ba4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
